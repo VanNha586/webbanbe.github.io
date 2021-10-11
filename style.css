@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.inner-container {
+    position: relative;
+}
+
+.landing {
+    text-align: center;
+    background-image: linear-gradient(90deg, #1da1f2, #981ceb);
+    /* background-image: #097aac !important; */
+}
+
+h4 {
+    color: white;
+    font-weight: 200;
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+    padding: 3rem 0 2rem 0;
+    text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+    color: white;
+    font-weight: 200;
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+    padding-bottom: 3rem;
+    text-transform: uppercase;
+    text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.15);
+}
+
+.menu_DS {
+    min-width: 280px !important;
+    background-image: linear-gradient(90deg, #1da1f2, #981ceb);
+    color: white !important;
+}
+
+.row {
+    padding-bottom: 0.5rem;
+}
+
+.fa-user {
+    opacity: 0.35;
+}
+
+.fa-user-plus {
+    opacity: 0.5;
+}
+
+.fa-user-friends {
+    opacity: 0.75;
+}
+
+.fa-users {
+    opacity: 1;
+}
+
+.xemthem {
+    color: #007bff;
+    cursor: pointer;
+    font-weight: 200;
+    font-size: 17px;
+}
+
+.xemthem1 {
+    color: #007bff;
+    cursor: pointer;
+    font-weight: 200;
+    font-size: 17px;
+}
+
+.hien {
+    display: none;
+}
+
+.hien1 {
+    display: none;
+}
+
+.andi {
+    display: none;
+    cursor: pointer;
+    color: #007bff;
+    font-weight: 200;
+    font-size: 17px;
+}
+
+.andi1 {
+    display: none;
+    cursor: pointer;
+    color: #007bff;
+    font-weight: 200;
+    font-size: 17px;
+}
+
+.navbar {
+    background-image: linear-gradient(90deg, #1da1f2, #981ceb);
+}
+
+.nav-masthead {
+    color: #ffffff;
+    border-bottom: 1px solid red;
+}
+
+.nav-item:hover {
+    color: #ffffff;
+    border-bottom: 1px solid red;
+}
+
+.navbar-branch {
+    position: relative;
+}
+
+.navbar-branch a img {
+    height: 3rem;
+    padding-top: 0.2rem;
+    /* background: #1DA1F2; */
+    margin-right: 4rem;
+}
+
+.horizontal-menu {
+    position: relative;
+}
+
+.cart_dropdown_link {
+    position: relative;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-toggler-icon {
+    width: 20px;
+    height: 30px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+}
+
+.unheader {
+    margin-top: 30px;
+}
+
+.fa-yelp {
+    padding: 0 10px 0 10px;
+}
+
+.tochu {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.social {
+    font-size: 5rem;
+    /* padding: 3rem; */
+}
+
+.form_banbe {
+    display: none;
+}
+
+.form_search {
+    display: none;
+}
+
+.form_phanloai {
+    display: none;
+}
+
+.form_sothich {
+    display: none;
+}
+
+.is-hidden {
+    display: none;
+}
+
+footer {
+    background-color: #097aac;
+    color: #ffffff;
+    width: 100%;
+}
+
+hr.light {
+    border-top: 1px solid red;
+}
