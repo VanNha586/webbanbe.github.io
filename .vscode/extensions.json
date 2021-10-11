@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "zignd.html-css-class-completion",
+    "cardinal90.multi-cursor-case-preserve",
+    "esbenp.prettier-vscode",
+    "lonefy.vscode-js-css-html-formatter",
+    "aaron-bond.better-comments"
+  ]
+}
